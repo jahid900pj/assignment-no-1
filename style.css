@@ -44,7 +44,7 @@ section{
 .first-link {
     text-decoration: none;
     background-color: blue;
-    color: wheat;
+    color: white;
     padding: 8px;
     font-weight: 700;
     border-radius: 5px;
@@ -103,4 +103,44 @@ section{
 
 .bar-tow-3 img{
     width: 60%;
+}
+
+
+
+.bar-img{
+    width: 40%;
+    margin-left: 53px;
+}
+.bar-p{
+    width: 60%;
+    
+   
+}
+
+.bar-img img{
+    width: 60%;
+    border-radius: 10px;
+    
+
+}
+.bar-p p{
+    width: 90%;
+}
+.bar-p a{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    font-weight: 700;
+    border-radius: 5px;
+  
+   
+}
+
+
+.bar-p-2{
+    width: 60%;
+}
+.bar-p-2 p{
+    width: 90%;
 }
