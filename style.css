@@ -144,3 +144,44 @@ section{
 .extrai{
     margin-left: 100px;
 }
+
+.last-img{
+    width: 45%;
+    height: 370px;
+    margin-left: 10%;
+    
+
+}
+
+.last-img img{
+    width: 45%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.last-p{
+    width: 60%;
+    margin-left: 10%;
+   
+}
+
+.last-p p{
+    width: 50%;
+}
+
+.last-p a{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.last-bar{
+    background-image: url(img/game.png);
+    background-repeat: no-repeat;
+}
+
+
+
