@@ -43,7 +43,7 @@ section{
 }
 .first-link {
     text-decoration: none;
-    background-color: tomato;
+    background-color: blue;
     color: wheat;
     padding: 8px;
     font-weight: 700;
@@ -53,4 +53,54 @@ section{
 }
 .scroll-para{
     margin-top: 50px;
+}
+
+
+
+
+
+.mission-2{
+    color: blue;
+}
+.akla-h1 {
+    text-align: center;
+    width: 100%;
+    
+}
+
+
+.bar-tow-1{
+    width: 33%;
+    padding: 10px;
+    margin: 50px;
+    
+    background-color: rgba(170, 170, 218, 0.21);
+    border-radius: 15px;
+}
+.bar-tow-1 img{
+    width: 60%;
+}
+.bar-tow-2{
+    width: 33%;
+    padding: 10px;
+    margin: 50px;
+   
+    background-color: #ff634724;
+    border-radius: 15px;
+}
+
+.bar-tow-2 img{
+    width: 60%;
+}
+.bar-tow-3{
+    width: 33%;
+    padding: 10px;
+    margin: 50px;
+   
+    background-color:#66339936;
+    border-radius: 15px;
+}
+
+.bar-tow-3 img{
+    width: 60%;
 }
