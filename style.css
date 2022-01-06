@@ -178,6 +178,21 @@ section{
     border-radius: 5px;
 }
 
+.over{
+    background-color: black;
+    text-align: center;
+}
+.finishing-tush{
+    color: white;
+}
+.mission-over{
+    color: blue;
+}
+
+.over p{
+    color: white;
+}
+
 
 
 
